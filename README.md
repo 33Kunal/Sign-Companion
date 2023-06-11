@@ -1,6 +1,6 @@
 # Sign-Companion
 Also added a Unpublish research paper, We are in middle of the process of publishing a research of this project.
-If you dont wish to run program on your local computer , we have got some outputs/glimpse after running this program , you can watch it here
+If you dont wish to run program on your local computer , we have got some outputs/glimpse after running this program , you can watch it here.
 :- https://drive.google.com/drive/u/1/folders/1KXTXMeBpuftTOJsSUpNWuvaPdzTiy5Ov
 
 
